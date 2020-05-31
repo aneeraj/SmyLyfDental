@@ -1215,7 +1215,7 @@ a.play-btn span{
 .blog-content blockquote:after{
     position: absolute;
     content: "\f10e";
-    font-family: "optico-icons";
+    font-family: "smyl-icons";
     font-size: 37px;
     line-height: 37px;
     top: 31px;

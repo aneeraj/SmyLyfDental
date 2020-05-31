@@ -1011,7 +1011,7 @@ a.link-btn i,
 }
 .ts-icon-close:before {
     content: '\e82d';
-    font-family: "optico-icons";
+    font-family: "smyl-icons";
     font-size: 30px;
     font-weight: 700;
     opacity: .5;

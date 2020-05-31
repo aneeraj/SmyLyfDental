@@ -314,11 +314,11 @@ INDEX:
 .testimonialbox-style-1 .testimonialbox-thumbnail { height: 100px; width: 100px; border-radius: 50%; overflow: hidden; margin-top: 15px; }
 .testimonialbox-style-1 .testimonialbox-thumbnail img { width: auto; background-color: #fff; border: 1px solid rgba(0, 0, 0, .1); border-radius: 50%; padding: 5px; }
 .testimonialbox-style-1 .testimonialbox-wrap { align-items: center; }
-.testimonialbox-style-1 .testimonialbox-author { margin-left: 20px; }
+.testimonialbox-style-1 .testimonialbox-author { margin-left: 0px; }
 
 /** Style 2 **/
 .testimonialbox-style-2 { position: relative; padding-top: 50px; }
-.testimonialbox-style-2:after { position: absolute; font-family: "optico-icons"; content: "\f10e"; font-size: 50px; line-height: 50px; top: 0px; left: 4px; text-align: center; color: #fff; opacity: .7; }
+.testimonialbox-style-2:after { position: absolute; font-family: "smyl-icons"; content: "\f10e"; font-size: 50px; line-height: 50px; top: 0px; left: 4px; text-align: center; color: #fff; opacity: .7; }
 .testimonialbox-style-2 .testimonialbox-desc { margin-bottom: 15px; }
 .testimonialbox-style-2 .testimonialbox-desc blockquote { padding: 0; font-size: 17px; font-style: italic; line-height: 27px; font-weight: 300; color: #fff; }
 .testimonialbox-style-2 .testimonialbox-wrap { position: relative; padding-left: 0; text-align: left; display: inline-block; }
@@ -329,7 +329,7 @@ INDEX:
 
 /** Style 3 **/
 .testimonialbox-style-3 .testimonialbox-content { position: relative; }
-.testimonialbox-style-3 .testimonialbox-content:after { position: absolute; font-family: "optico-icons"; content: "\e84a"; font-size: 74px; line-height: 74px; top: 0; left: 0; opacity: 0.10; color: #7fc540; }
+.testimonialbox-style-3 .testimonialbox-content:after { position: absolute; font-family: "smyl-icons"; content: "\e84a"; font-size: 74px; line-height: 74px; top: 0; left: 0; opacity: 0.10; color: #7fc540; }
 .testimonialbox-style-3 .testimonialbox-desc { margin-bottom: 30px; }
 .testimonialbox-style-3 .testimonialbox-desc .testimonialbox-text { border-left: none; margin: 0; padding: 0; background-color: transparent; font-size: 24px; font-style: italic; line-height: 36px; margin-top: 0; font-weight: 500; color: #031b4e; }
 
@@ -429,7 +429,7 @@ INDEX:
 .footer .footer-widget-title { font-weight: 700; text-transform: capitalize; font-size: 22px; line-height: 32px; color: #313131; margin-bottom: 26px; position: relative; }
 .footer .footer-widget-title:after { content: ''; width: 40px; height: 2px; background-color: #85ab00; display: block; margin-top: 13px; }
 .footer .footer-link-list li a { font-size: 14px; color: #42464e; padding-left: 15px; position: relative; }
-.footer .footer-link-list li a:before { font-family: "optico-icons"; content: "\e809"; position: absolute; top: 4px; left: 0px; line-height: 1em; font-size: 14px; }
+.footer .footer-link-list li a:before { font-family: "smyl-icons"; content: "\e809"; position: absolute; top: 4px; left: 0px; line-height: 1em; font-size: 14px; }
 .footer .address-box i { font-size: 20px; margin-right: 10px; }
 .form-control { background: #fff; border: none; border-bottom: 2px solid #f4f4f4; height: 50px; padding: 10px 20px; padding-left: 0; font-weight: 600; color: #989898; font-family: inherit; border-radius: 4px; vertical-align: middle; text-transform: inherit; font-size: 14px; border-radius: 0; outline: none; line-height: inherit; }
 .footer .footer-top { padding: 40px 0; margin-bottom: 60px; }

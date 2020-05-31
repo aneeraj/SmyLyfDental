@@ -148,14 +148,14 @@
     /*-------------------------------------
       Add plus icon in menu
       -------------------------------------*/
-    $( ".main-menu ul.navigation li.dropdown").append( "<span class='righticon'><i class='optico-icon-angle-down'></i></span>" );
+    $( ".main-menu ul.navigation li.dropdown").append( "<span class='righticon'><i class='smyl-icon-angle-down'></i></span>" );
     
     /*-------------------------------------
     Responsive Menu
     -------------------------------------*/ 
     $('.main-menu ul.navigation li.dropdown .righticon').on('click', function() {
            $(this).siblings().toggleClass('open');
-           $(this).find('i').toggleClass('optico-icon-angle-down optico-icon-angle-up');
+           $(this).find('i').toggleClass('smyl-icon-angle-down smyl-icon-angle-up');
            return false;
     });  
 
